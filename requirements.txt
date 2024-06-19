@@ -1,0 +1,6 @@
+requests
+aiohttp
+psycopg2-binary
+discord-py-interactions==4.3.1
+interactions-wait-for==1.0.6
+interactions-tasks==1.0.0
